@@ -1,3 +1,3 @@
 # rabbitmq-implementation
-Demo code
+Demo code.
 Reference YouTube Video - https://youtu.be/0dXwJa7veI8
