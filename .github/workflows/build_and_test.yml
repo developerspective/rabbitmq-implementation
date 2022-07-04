@@ -62,6 +62,6 @@ jobs:
         
         # The version number could be anything. You can find a dynamic way 
         # Of doing this.
-        version_label: 12348
+        version_label: 12349
         region: ap-south-1
         deployment_package: deploy.zip
