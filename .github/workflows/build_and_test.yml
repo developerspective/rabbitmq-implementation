@@ -58,7 +58,7 @@ jobs:
         # Replace the values here with your names you submitted in one of 
         # The previous sections
         application_name: aws-github-nodejs-test
-        environment_name: aws-github-nodejs-test-env
+        environment_name: Awsgithubnodejstest-env
         
         # The version number could be anything. You can find a dynamic way 
         # Of doing this.
